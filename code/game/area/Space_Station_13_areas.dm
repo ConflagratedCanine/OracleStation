@@ -249,6 +249,9 @@ NOTE: there are two lists of areas in the end of this file: centcom and station 
 	name = "Incinerator"
 	icon_state = "disposal"
 
+/area/maintenance/teg
+	name = "Abandoned TEG Engine"
+	icon_state = "engine"
 
 //Cere / Asteroid Specific
 
@@ -672,6 +675,10 @@ NOTE: there are two lists of areas in the end of this file: centcom and station 
 	name = "Law Office"
 	icon_state = "law"
 
+//Abandoned TEG
+/area/TEG
+	name = "Abandoned TEG Engine"
+	icon_state = "engine"
 
 //Engineering
 
