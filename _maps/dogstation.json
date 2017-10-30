@@ -1,8 +1,0 @@
-{
-    "map_name": "Dog Station",
-    "map_path": "map_files/DogStation",
-    "map_file": "DogStation.dmm",
-    "minetype": "lavaland",
-    "transition_config": "default",
-    "allow_custom_shuttles": "yes"
-}
